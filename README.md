@@ -71,4 +71,4 @@
 
 
 ## Материалы
-1. Positive: "Искусственный интеллект в кибератках" https://www.ptsecurity.com/ru-ru/research/analytics/iskusstvennyj-intellekt-v-kiberatakah/#id5
+1. 
